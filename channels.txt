@@ -1,0 +1,1 @@
+name= Filser.cc url= "https://filser.cc" logo= "https://filser.cc/assets/img/logo.png"
